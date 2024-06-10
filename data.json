@@ -1,0 +1,80 @@
+{
+  "Movies": [],
+  "Studios": [
+    {
+      "Id": "a33bad38-9e54-4d7b-a8a7-f6b1e75d42f4",
+      "Name": "Disney",
+      "Address": "Burbank, California, 500 S Buena Vista St, United States",
+      "Description": "Default"
+    },
+    {
+      "Id": "d4196d46-7e14-4771-80fa-b5d90364c12d",
+      "Name": "Warner Bros",
+      "Address": "Burbank, California,4000 Warner Boulevard, United States",
+      "Description": "Default"
+    },
+    {
+      "Id": "e19992d5-4216-49cf-bd9e-b48011420b76",
+      "Name": "Paramount",
+      "Address": "1515 Broadway, New York City, New York, 10036, United States",
+      "Description": "Default"
+    },
+    {
+      "Id": "dce2b5f2-7993-4443-9982-e7f49b34d020",
+      "Name": "Lionsgate",
+      "Address": "2700 Colorado Ave, Ste 200, Santa Monica, CA",
+      "Description": "Default"
+    },
+    {
+      "Id": "f29d372e-6805-4754-89e3-1b66aa74db85",
+      "Name": "20th Century Fox",
+      "Address": "500 S Buena Vista St, Burbank, CA 91521",
+      "Description": "Default"
+    }
+  ],
+  "Genres": [
+    {
+      "Id": "311b0a97-e400-4417-9639-aeb202cac41d",
+      "Name": "Romantic",
+      "Description": "Default"
+    },
+    {
+      "Id": "06edc114-3e6c-4c77-bef4-05dbf144308f",
+      "Name": "Action",
+      "Description": "Default"
+    },
+    {
+      "Id": "a2ba01c3-e536-4deb-873b-4b0bbe09003c",
+      "Name": "Fantasy",
+      "Description": "Default"
+    },
+    {
+      "Id": "efa5b2ab-37a7-4092-b20f-6585f34e2d80",
+      "Name": "Drama",
+      "Description": "Default"
+    },
+    {
+      "Id": "4d33790c-8ed8-4238-b74b-2f9c7ed63334",
+      "Name": "Comedy",
+      "Description": "Default"
+    }
+  ],
+  "Artists": [
+    {
+      "Id": "922c5fed-7fb0-4621-bc0d-4fc67f0fcbc6",
+      "Name": "Ryan Gosling",
+      "Biography": "Default"
+    },
+    {
+      "Id": "ebb71ea6-0a35-43ab-918b-bbd133b4c34d",
+      "Name": "Dwayne Johnson",
+      "Biography": "The Rock"
+    },
+    {
+      "Id": "4154e10d-f281-47d5-8df1-af448bfe88d8",
+      "Name": "Christian Bale",
+      "Biography": "Psycho"
+    }
+  ],
+  "Playlists": []
+}
